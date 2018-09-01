@@ -2,15 +2,41 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: ADMM Optimization algorithm in PyTorch
+  # role: Founder & Primary Developer
+  duration: Mar 2018 &mdash; Apr 2018
+  url: "https://github.com/mihirchakradeo/admm"
+  description: "<ul>
+  <li>Implemented parallelized “Alternating Direction Method of Multipliers” Optimization algorithm</li>
+  <li>Tested against sklearn’s LASSO solver on the diabetes dataset, achieved an average speed up of 1.18</li>
+  <li><strong>Technologies: Python, PyTorch, numpy, matplotlib</strong></li>  
+  </ul>
+  "
+  tags: "Tags: Deep Learning, Convex Optimization, Machine Learning"
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Human Action Detection using Deep Learning(CNN)
+  duration: Feb 2018 &mdash; Feb 2018
+  url: "https://github.com/mihirchakradeo/Machine-Learning-Spring2018/blob/master/HW3-CNN-ActionRecognition/Action_CNN.ipynb"
+  description: "<ul>
+  <li>Wrote a Convolutional Neural Network in PyTorch for classifying images and videos of human actions. Used the UCF101 action recognition dataset</li>
+  <li><strong>Technologies: Python, pandas, numpy, PyTorch, matplotlib</strong></li>
+  </ul>"
+
+- project: Cryptocurrency Data Analysis
+  duration: Feb 2018 &mdash; Mar 2018
+  url: "https://github.com/mihirchakradeo/Cryptocurrency-Analysis"
+  description: "<ul>
+  <li>Applied various techniques of Statistical Inferencing and Data Science on the <a href='https://github.com/bhushan23/Cryptocurrency-Analysis/tree/master/Data'>Cryptocurrency Dataset</a> on Kaggle, which contributed towards my final project of Prob Stats for Data Science Grad course</li>
+  <li>I worked on finding how Google searches affect crypto prices. Tests applied were - Linear Regression, Wald's Test, KS Test, Multiple Linear Regression to find which crypto was influenced the most</li>
+  <li><strong>Technologies: Python, pandas, numpy, sklearn, matplotlib</strong></li>
+  </ul>"
+
+- project: Google Firebase AppFest - Skin Cancer Detection with a Dermatoscope
+  duration: Jun 2017
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: "<ul>
+  <li>Built an android app for detecting skin cancer using a Dermatoscope. Secured second place.</li>
+  <li>Trained Inception v2 on images from google search scrapes</li>
+  <li><strong>Technologies: Python, pandas, numpy, PyTorch, matplotlib, Android</strong></li>
+  </ul>"
